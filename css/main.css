@@ -310,7 +310,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #slider .block .owl-carousel img {
-    display: flex;
+    
     border-radius: 2px;
     padding-bottom: 50px;
     width:350px;
@@ -374,7 +374,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    position: relative;
+    /* position: relative; */
 }
 
 #blog:before {
